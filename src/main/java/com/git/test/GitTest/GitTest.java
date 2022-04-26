@@ -12,5 +12,6 @@ public class GitTest {
         System.out.println("hello,git999999999966666");
         HashMap<String, Integer> stringIntegerHashMap = new HashMap<>();
         ArrayList<String> objects = new ArrayList<>();
+        Set set = new HashSet();
     }
 }
